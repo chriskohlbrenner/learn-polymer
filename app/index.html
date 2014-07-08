@@ -12,6 +12,8 @@
     href="../components/core-toolbar/core-toolbar.html">
   <link rel="import"
     href="../components/paper-tabs/paper-tabs.html">
+  <link rel="import"
+    href="../components/google-map/google-map.html">
   <link rel="import" href="post-list.html">
   <style>
   html,body {
@@ -57,10 +59,13 @@
       <paper-tabs selected="all" valueattr="name" self-end>
         <paper-tab name="all">ALL</paper-tab>
         <paper-tab name="favorites">FAVORITES</paper-tab>
+        <!-- <paper-tab name="map">MAP</paper-tab> -->
       </paper-tabs>
     </core-toolbar>
     <div class="container" layout vertical center>
       <post-list show="all"></post-list>
+
+      <google-map lat="37.790" long="-122.390"></google-map>
     </div>
   </core-header-panel>
 
