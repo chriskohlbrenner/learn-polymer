@@ -1,0 +1,17 @@
+{
+  "name": "learn-polymer",
+  "version": "0.0.0",
+  "homepage": "https://github.com/chriskohlbrenner/learn-polymer",
+  "authors": [
+    "chriskohlbrenner <c.kohlbrenner@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
