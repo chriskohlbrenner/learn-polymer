@@ -15,7 +15,7 @@
   },
   {
     "uid": 3,
-    "text" : "They're building blocks for the web! Composibility, extensibility, reusability, maintainability, etc.! (http://polymer-change.appspot.com/#67)",
+    "text" : "They're building blocks for the web! Composibility, extensibility, reusability, maintainability, etc.!",
     "username" : "Chris",
     "avatar" : "../images/avatar-02.svg",
     "favorite": false
